@@ -1,4 +1,4 @@
-<div align = center><img src="https://media.licdn.com/dms/image/C5616AQFet1hKGLofcg/profile-displaybackgroundimage-shrink_350_1400/0/1615174036665?e=1679529600&v=beta&t=sFSYZoFO6CHqoSu_EeIhRCEXXxsKa21Z-5YGsOPSRvo" width=100%></div>
+<div align = center><img src="https://media.licdn.com/dms/image/D4D16AQF7da95fIJeiA/profile-displaybackgroundimage-shrink_350_1400/0/1673878697154?e=1679529600&v=beta&t=OmQqOfd_kZ5-84M_0lFu_-xJcAHXFG6o37-WI2IRxgY" width=100%></div>
 
 ## ohh, Hii !!!
 
