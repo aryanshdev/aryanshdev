@@ -1,7 +1,7 @@
 <div align = center><img src="https://media.licdn.com/dms/image/D4D16AQF7da95fIJeiA/profile-displaybackgroundimage-shrink_350_1400/0/1673878697154?e=1679529600&v=beta&t=OmQqOfd_kZ5-84M_0lFu_-xJcAHXFG6o37-WI2IRxgY" width=100%></div>
 
 # 💫 About Me:
-My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name..<br>I’m 18 and Started My Journey As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and Hacking Too.<br>Here's A Little Glance Of My Hacking Skills, Hope You Like It 🤠..
+My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’m 18 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and Little Bit of Hacking Too 🤠..
 
 <br>
 
@@ -28,7 +28,7 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name..<br>I’m 1
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br><br>
 ## Others
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br><br>
- 
+
 # 📊 GitHub Stats:
 <center>
 
