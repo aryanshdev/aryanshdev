@@ -8,7 +8,10 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name..<br>I’m 1
 # 🌐 Socials:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanshdevyt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aryanshdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aryanshdevyt) 
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aryanshdevyt) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshdev) 
+  [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@aryanshdev)
+   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanshdevyt) 
 
 # 💻 Tech Stack:
 ## Languages
@@ -25,7 +28,7 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name..<br>I’m 1
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br><br>
 ## Others
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br><br>
-
+ 
 # 📊 GitHub Stats:
 <center>
 
@@ -58,8 +61,6 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name..<br>I’m 1
 
   # 💰 You can help me by Donating
 
-  <center>
+
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aryanshdev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aryanshdev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aryanshdev) 
-
-</center>
