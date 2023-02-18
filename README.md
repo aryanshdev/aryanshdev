@@ -30,34 +30,26 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br><br>
 
 # 📊 GitHub Stats:
-<center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=aryanshdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryanshdev&theme=tokyonight&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aryanshdev&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryanshdev&theme=jolly&hide_border=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshdev&langs_count=4&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=aryanshdev&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-</center>
+  ![](https://visitcount.itsvg.in/api?id=aryanshdev&label=Profile%20Views&color=11&icon=2&pretty=true)
+</div>
 
 ## 🏆 GitHub Trophies
-<center>
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=aryanshdev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-</center>
+![](https://github-profile-trophy.vercel.app/?username=aryanshdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 # 🐦 Latest Tweet
-<center>
+<div align="center">
+<img src="https://gtce.itsvg.in/api?username=aryanshdevyt&theme=jolly&response=false&border=true&time=false&icon=heart"/>
+</div>
 
-[![](https://gtce.itsvg.in/api?username=aryanshdevyt)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-</center>
-
-# ✍️ Random Dev Quote
-<center>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</center>
 
   # 💰 You can help me by Donating
 
