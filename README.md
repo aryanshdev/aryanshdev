@@ -1,4 +1,6 @@
-<div align = center><img src="https://media.licdn.com/dms/image/D4D16AQF7da95fIJeiA/profile-displaybackgroundimage-shrink_350_1400/0/1673878697154?e=1679529600&v=beta&t=OmQqOfd_kZ5-84M_0lFu_-xJcAHXFG6o37-WI2IRxgY" width=100%></div>
+<div align = center>
+<img src="https://user-images.githubusercontent.com/57456859/227689905-8aff533a-b6cd-4b8c-81be-b5bb94f932e4.png" width=100%>
+</div>
 
 # 💫 About Me:
 My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’m 18 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and Little Bit of Hacking Too 🤠..
