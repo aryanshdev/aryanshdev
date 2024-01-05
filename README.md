@@ -37,7 +37,12 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’
 # 📊 GitHub Stats:
 <div align="center">
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=aryanshdev&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
+-->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryanshdev&theme=jolly&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshdev&langs_count=4&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
