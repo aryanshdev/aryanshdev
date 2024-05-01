@@ -65,11 +65,6 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’
 ![](https://github-profile-trophy.vercel.app/?username=aryanshdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-# 🐦 Latest Tweet
-<div align="center">
-<img src="https://gtce.itsvg.in/api?username=aryanshdevyt&theme=jolly&response=false&border=true&time=false&icon=heart"/>
-</div>
-
 
   # 💰 You can help me by Donating
 
