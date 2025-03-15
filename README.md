@@ -65,10 +65,10 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’
 
   <div>
     <div>
-      <img src="https://wakatime.com/share/@Aryanshdev/a78b58ba-632a-4f94-a6cb-53888ed9ca01.svg" width="45%"/>
+      <img src="https://wakatime.com/share/@Aryanshdev/56046d24-a587-4ddc-b863-e9fe9ebeb918.svg" width="45%"/>
     </div>
     <div>
-      <img src="https://wakatime.com/share/@Aryanshdev/c70cbc30-21a7-4663-b259-c1c865d47735.svg" width="75%"/>
+      <img src="https://wakatime.com/share/@Aryanshdev/c70cbc30-21a7-4663-b259-c1c865d47735.svg"/>
     </div>
   </div>
 
