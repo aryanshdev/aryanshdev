@@ -59,6 +59,21 @@ My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’
   ![](https://visitcount.itsvg.in/api?id=aryanshdev&label=Profile%20Views&color=11&icon=2&pretty=true)
 </div>
 
+## Coding Stats
+
+***via Wakatime - Last 1 Year Time Period***
+
+  <div>
+    <div>
+      <img src="https://wakatime.com/share/@Aryanshdev/a78b58ba-632a-4f94-a6cb-53888ed9ca01.svg" width="45%"/>
+    </div>
+    <div>
+      <img src="https://wakatime.com/share/@Aryanshdev/c70cbc30-21a7-4663-b259-c1c865d47735.svg" width="45%"/>
+    </div>
+  </div>
+
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
 
