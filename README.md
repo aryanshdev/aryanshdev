@@ -1,14 +1,14 @@
 
-<table width="100%">
+<table width="100%;" align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/aryanshdev/Resume/blob/main/Full%20Stack%20MERN%20-%20Aryansh%20Gupta.pdf">
-        <img src="https://img.shields.io/badge/Click%20Here%20For%20Resume-f14dfe?style=for-the-badge" alt="Resume" />
+        <img src="https://img.shields.io/badge/Click%20Here%20For%20Resume-844efe?style=for-the-badge" alt="Resume" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/aryanshdev/Projects">
-        <img src="https://img.shields.io/badge/Check%20Out%20All%20Projects-f14dfe?style=for-the-badge" alt="Projects" />
+        <img src="https://img.shields.io/badge/Check%20Out%20All%20Projects-844efe?style=for-the-badge" alt="Projects" />
       </a>
     </td>
   </tr>
