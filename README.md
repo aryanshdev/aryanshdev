@@ -1,9 +1,27 @@
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aryanshdev/Resume/blob/main/Full%20Stack%20MERN%20-%20Aryansh%20Gupta.pdf">
+        <img src="https://img.shields.io/badge/Click%20Here%20For%20Resume-f14dfe?style=for-the-badge" alt="Resume" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aryanshdev/Projects">
+        <img src="https://img.shields.io/badge/Check%20Out%20All%20Projects-f14dfe?style=for-the-badge" alt="Projects" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align = center>
 <img src="https://user-images.githubusercontent.com/57456859/227689905-8aff533a-b6cd-4b8c-81be-b5bb94f932e4.png" width=100%>
 </div>
 
 # 💫 About Me:
-My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’m 20 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and Little Bit of Hacking Too 🤠..
+My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’m 22 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and a Little Bit of Hacking Too 🤠..
 
 <br>
 
