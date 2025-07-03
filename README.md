@@ -21,7 +21,7 @@
 </div>
 
 # 💫 About Me:
-My Name Is Aryansh Gupta, But I Use AryanshDev As My Developer Name 💻<br>I’m 22 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and a Little Bit of Hacking Too 🤠..
+My Name Is Aryansh Gupta, but I use AryanshDev As My Developer Name 💻<br>I’m 22 and Started My Journey 🛣️ As A Programmer Back In 2018. Since Then, I've Learned A Lot. I've Explored This Computer World A Lot Since Then. I Learned Many Languages and a Little Bit of Hacking Too 🤠..
 
 <br>
 
