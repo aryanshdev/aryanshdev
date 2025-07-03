@@ -2,7 +2,7 @@
 <table width="100%;" align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/aryanshdev/Resume/blob/main/Full%20Stack%20MERN%20-%20Aryansh%20Gupta.pdf">
+      <a href="https://github.com/aryanshdev/Resume/blob/main/Aryansh%20Gupta%20-%20Resume.pdf">
         <img src="https://img.shields.io/badge/Click%20Here%20For%20Resume-844efe?style=for-the-badge" alt="Resume" />
       </a>
     </td>
