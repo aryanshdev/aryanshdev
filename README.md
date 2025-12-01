@@ -81,14 +81,12 @@ My Name Is Aryansh Gupta, but I use AryanshDev As My Developer Name 💻<br>I’
 
 ***via Wakatime - Last 1 Year Time Period***
 
-  <div>
-    <div>
-      <img src="https://wakatime.com/share/@Aryanshdev/56046d24-a587-4ddc-b863-e9fe9ebeb918.svg" width="45%"/>
-    </div>
-    <div>
-      <img src="https://wakatime.com/share/@Aryanshdev/c70cbc30-21a7-4663-b259-c1c865d47735.svg"/>
-    </div>
-  </div>
+
+   
+<div>
+      <img src="https://wakatime.com/share/@Aryanshdev/c70cbc30-21a7-4663-b259-c1c865d47735.svg"/ width="100%">
+ </div>
+
 
 
 
