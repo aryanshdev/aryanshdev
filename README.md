@@ -93,7 +93,7 @@ My Name Is Aryansh Gupta, but I use AryanshDev As My Developer Name 💻<br>I’
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=aryanshdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=aryanshdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 
