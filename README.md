@@ -1,18 +1,13 @@
 
-<table width="100%;" align="center">
+<!-- <table width="100%;" align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/aryanshdev/Resume/blob/main/Aryansh%20Gupta%20-%20Resume.pdf">
-        <img src="https://img.shields.io/badge/Click%20Here%20For%20Resume-844efe?style=for-the-badge" alt="Resume" />
-      </a>
-    </td>
     <td align="center" width="50%">
       <a href="https://github.com/aryanshdev/Projects">
         <img src="https://img.shields.io/badge/Check%20Out%20All%20Projects-844efe?style=for-the-badge" alt="Projects" />
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
